@@ -7,7 +7,7 @@ This README is designed to be **very simple** — spoon-feeding style — so eve
 
 ---
 
-# &&& 🌟 1. Architecture Overview  
+#  🌟 1. Architecture Overview  
 
 ```
 Upload CSV → S3 Raw Folder  
@@ -27,7 +27,7 @@ QuickSight Dashboard (Direct Query)
 
 ---
 
-# &&& 🗂 2. Project Structure  
+# 🗂 2. Project Structure  
 
 ```
 aws-data-pipeline/
@@ -53,7 +53,7 @@ aws-data-pipeline/
 
 ---
 
-# &&& 🧠 3. Prerequisites
+#  🧠 3. Prerequisites
 
 Before you begin, make sure you have:
 
@@ -64,7 +64,7 @@ Before you begin, make sure you have:
 
 ---
 
-# &&& 🍽 4. Step-by-Step Setup (Beginner Friendly)
+#  🍽 4. Step-by-Step Setup (Beginner Friendly)
 
 ---
 
@@ -260,7 +260,7 @@ Vinit Sales Dashboard
 
 ---
 
-# &&& 👨‍💻 Author
+#  👨‍💻 Author
 
 **Vinit Tippanawar**  
 AWS | Cloud | Data Engineering Enthusiast  
