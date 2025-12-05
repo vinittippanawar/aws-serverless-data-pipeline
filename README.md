@@ -84,11 +84,11 @@ processed/
 ```
 
 ### 📸 Screenshot — S3 Raw Folder  
-![Raw Folder](./screenshots/s3_raw.png)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/393f3354-582b-4a50-9845-7b91c2006303" />
 
 ### 📸 Screenshot — S3 Processed Folder  
 *(After Lambda runs)*  
-![Processed Folder](./screenshots/s3_processed.png)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5d1280bd-c059-47c2-aa0b-6820823fb891" />
 
 ---
 
@@ -150,7 +150,7 @@ def lambda_handler(event, context):
 - Event: **PUT**
 
 ### 📸 Screenshot — Lambda Function  
-![Lambda Function](./screenshots/lambda_function.png)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1ecf0daf-c740-4e18-a239-622ba0fea4a9" />
 
 ---
 
@@ -191,7 +191,7 @@ Lambda will:
 Run the crawler → It creates **processed** table.
 
 ### 📸 Screenshot — Glue Crawler Completed  
-![Glue Crawler](./screenshots/glue_crawler.png)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/05f74f46-8e4c-4c7a-b72d-243a62bfbda2" />
 
 ---
 
@@ -210,7 +210,7 @@ SELECT * FROM processed LIMIT 10;
 ```
 
 ### 📸 Screenshot — Athena Preview  
-![Athena Preview](./screenshots/athena_preview.png)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/00e135f2-e3f2-4d59-a286-f570eb46caf0" />
 
 ---
 
