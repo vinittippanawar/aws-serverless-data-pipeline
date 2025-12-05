@@ -262,7 +262,7 @@ Finally publish:
 ```
 Vinit Sales Dashboard
 ```
-[simple-dashboard.pdf](https://github.com/user-attachments/files/23966011/simple-dashboard.pdf)
+[vinit sales-dashboard.pdf](https://github.com/user-attachments/files/23966064/vinit.sales-dashboard.pdf))
 ---
 
 #  👨‍💻 Author
