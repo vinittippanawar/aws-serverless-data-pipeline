@@ -104,7 +104,7 @@ AWS Console → **Lambda → Create function**
 
 | Setting | Value |
 |--------|--------|
-| Name | vinit-process-lambda |
+| Name | vinit-csv-learner |
 | Runtime | Python 3.x |
 | Role | Create new role |
 
