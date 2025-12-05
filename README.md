@@ -3,7 +3,7 @@
 
 This project processes CSV files uploaded into S3, transforms them using AWS Lambda, catalogs them using AWS Glue, queries them with Amazon Athena, and visualizes them through Amazon QuickSight using **Direct Query**.
 
-This README is designed to be **very simple** — spoon-feeding style — so even a complete beginner can follow confidently.
+This README is designed to be **very simple** .- so any newbie can do this.
 
 ---
 
@@ -59,16 +59,18 @@ Before you begin, make sure you have:
 
 - AWS Account  
 - IAM User with **AdministratorAccess**  
-- Region set to **ap-south-1 (Mumbai)**  
-- Basic AWS Console knowledge  
+- Region set to **ap-south-1 (Mumbai)** (or your choice)
+- Basic AWS Console knowledge (mandatory) 
 
 ---
 
-#  🍽 4. Step-by-Step Setup (Beginner Friendly)
+#  🍽 4. Step-by-Step Setup 
 
 ---
 
 # ⭐ STEP 1 — Create S3 Bucket Structure
+
+search on aws console : s3
 
 Create a bucket named:
 
@@ -77,10 +79,12 @@ vinit-data-pipeline
 ```
 
 Inside it, create:
+two folders 
 
 ```
 raw/
 processed/
+
 ```
 
 ### 📸 Screenshot — S3 Raw Folder  
@@ -263,7 +267,7 @@ Vinit Sales Dashboard
 #  👨‍💻 Author
 
 **Vinit Tippanawar**  
-AWS | Cloud | Data Engineering Enthusiast  
+AWS | Cloud | Dev 
 
 If you like this project, please ⭐ star the repo!
 
