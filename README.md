@@ -23,7 +23,7 @@ Athena SQL Query
 QuickSight Dashboard (Direct Query)
 ```
 
-![Architecture Diagram](./screenshots/architecture_diagram.png)
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/5eec84ce-24c9-4469-b64b-8f1d6386144e" />
 
 ---
 
