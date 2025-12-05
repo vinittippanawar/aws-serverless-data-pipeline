@@ -3,7 +3,8 @@
 
 This project processes CSV files uploaded into S3, transforms them using AWS Lambda, catalogs them using AWS Glue, queries them with Amazon Athena, and visualizes them through Amazon QuickSight using **Direct Query**.
 
-This README is designed to be **very simple** .- so any newbie can do this.
+This README is designed to be **very simple** - so any newbie can do this. 
+(note : quicksite is paid service so if you are using free plan account then you can't access quicksite so better to upgrade account )
 
 ---
 
@@ -267,7 +268,7 @@ Vinit Sales Dashboard
 #  👨‍💻 Author
 
 **Vinit Tippanawar**  
-AWS | Cloud | Dev 
+AWS | Cloud | Devops 
 
 If you like this project, please ⭐ star the repo!
 
